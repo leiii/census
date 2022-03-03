@@ -1,11 +1,19 @@
+# Readme
+
 ## Census data source
 
-The data sources are the statistical bulletins of the censuses published by local governments. We collected relevant information from official government websites, the census website, and the bureau of statistics website. We also included census statistics released by some local governments on their official WeChat Accounts. There are a handful of counties that did not release data from the above sources. For these counties, we contacted the local statistical bureaus by email or phone to obtain the data. Fig. S1 shows a sample web page of a census statistical bulletin.
+The data sources are the statistical bulletins of the censuses published by local governments. We collected relevant information from official government websites, the census website, and the bureau of statistics website. We also included census statistics released by some local governments on their official WeChat Accounts. 
+
+There are a handful of counties that did not release data from the above sources. For these counties, we contacted the local statistical bureaus by email or phone to obtain the data. Fig. S1 shows a sample web page of a census statistical bulletin.
 
 Because most of the counties’ census documents are web pages, PDFs, or even images, we manually converted them into a structured dataset; each data point was cross-validated by at least two research assistants to ensure data quality. We corrected a small number of errors in the original information released by the governments.
+
 In addition to the resident population, we also collected data on sex ratio, average number of family members, and age structure (including four groups: 0-14, 15-59, >=60, and >=65) from the statistical bulletins. 
 
-Note that there are some great recent efforts made by other scholars to compile the 2020 county-level census data. However, previous data only include population size and are not open-source. In comparison, our unique contributions are: 1) providing a rich set of variables (e.g., population, sex ratio, age groups, family size, etc.); 2) open-sourcing the full dataset; and 3) adjusting the administrative boundary changes based on more accurate first-hand information we gathered.
+Note that there are some great recent efforts made by other scholars to compile the 2020 county-level census data. However, previous data only include population size and are not open-source. In comparison, our unique contributions are: 
+- 1) providing a rich set of variables (e.g., population, sex ratio, age groups, family size, etc.); 
+- 2) open-sourcing the full dataset; 
+- 3) adjusting the administrative boundary changes based on more accurate first-hand information we gathered.
 
 ## Administrative boundary adjustment
 
