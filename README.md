@@ -24,3 +24,10 @@ Most countries rely on census data to seek a comprehensive probe into population
 
 
 We also have a plan to build a comprehensive database of Chinese cities by combining the economic census, annual prefecture-level city statistical yearbook, and more socio-economic related data (e.g., firms, nighttime light, remote sensing, mobile phone). If you are interested in contributing, feel free to send me an email.
+
+### Reference
+
+If this dataset is helpful for your research please cite the following paper:
+> Mapping Evolving Population Geography in China, Lei Dong, Rui Du, and Yu Liu, [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4049338), 2022.
+
+
