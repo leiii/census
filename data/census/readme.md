@@ -1,5 +1,11 @@
 # Readme
 
+## Data description
+
+- census_county_2010_v1.xlsx : 2010 county-level census data from the 6th Census Yearbook (variables and county names in Chinese, no boundaries).
+- census_county_2010-2020_v1.csv : Data for 2010 are from the 6th Census Yearbook, and data for 2020 are from the 7th Census Bulletin (see below for details, with administrative boundaries).
+- census_city_2010-2020_v1.csv : Same as the county-level data, only at the city level.
+
 ## Census data source
 
 The data sources are the statistical bulletins of the censuses published by local governments. We collected relevant information from official government websites, the census website, and the bureau of statistics website. We also included census statistics released by some local governments on their official WeChat Accounts. 
@@ -28,4 +34,4 @@ Note that there are some great recent efforts made by other scholars to compile 
     * If county A and county B are merged into county C, we then add up the population data of county A and county B in 2010 (merged proportional data such as population by age structure are weighted sums of the focal variable in the pre-merging counties). 
     * If county D is divided into counties E and F, then we add the population data of counties E and F in 2020. These adjustments require the use of the township-level census data in certain cases. 
     * Finally, there are changes present in intercensal years for which adjustment could not be applied due to a lack of information. For example, a portion of county G might be transferred to county H but the transferred area is not well documented in census data. In this case, we merge counties G and H into one county-level unit. 
-    * The bottom line in the adjustment process is to make the data in 2010 and 2020 comparable.
+    * The baseline in the adjustment process is to make the data in 2010 and 2020 comparable.
