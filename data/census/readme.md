@@ -2,7 +2,8 @@
 
 ## Data description
 
-- census_county_2010_v1.xlsx : 2010 county-level census data from the 6th Census Yearbook (variables and county names in Chinese, no boundaries).
+- census_county_2010_v1.xlsx : 2010 county-level census data from the 6th Census Yearbook (without boundaries).
+- census_county_2020_v1.xlsx : 2020 county-level census data from the 7th Census Yearbook (without boundaries).
 - census_county_2010-2020_v1.csv : Data for 2010 are from the 6th Census Yearbook, and data for 2020 are from the 7th Census Bulletin (see below for details, with administrative boundaries).
 - census_city_2010-2020_v1.csv : Same as the county-level data, only at the city level.
 
