@@ -18,9 +18,9 @@ Because most of the counties’ census documents are web pages, PDFs, or even im
 In addition to the resident population, we also collected data on sex ratio, average number of family members, and age structure (including four groups: 0-14, 15-59, >=60, and >=65) from the statistical bulletins. 
 
 Note that there are some great recent efforts made by other scholars to compile the 2020 county-level census data. However, previous data only include population size and are not open-source. In comparison, our unique contributions are: 
-- 1) providing a rich set of variables (e.g., population, sex ratio, age groups, family size, etc.); 
-- 2) open-sourcing the full dataset; 
-- 3) adjusting the administrative boundary changes based on more accurate first-hand information we gathered.
+- providing a rich set of variables (e.g., population, sex ratio, age groups, family size, etc.); 
+- open-sourcing the full dataset; 
+- adjusting the administrative boundary changes based on more accurate first-hand information we gathered.
 
 ## Administrative boundary adjustment
 
