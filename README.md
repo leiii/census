@@ -15,7 +15,7 @@ Most countries rely on census data to seek a comprehensive probe into population
     * 2010 county-level/prefectural-level population data (based on 6th census yearbook)
     * 2010/2020 county-level/prefectural-level matched data with geographical boundaries
 
-- V2 data (June 2023)
+- V2 data ~~(June 2023)~~ ｜ Postpone
     * 2000/2010/2020 county-level/prefectural-level matched data with geographical boundaries
     * update 2020 county-level/prefectural-level population data (based on 7th census yearbook) [DONE]
     * 2010 township-level population data (based on 6th census yearbook)
